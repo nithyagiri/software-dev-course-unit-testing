@@ -1,3 +1,5 @@
+
+//js file fro the function calculateDiscount nd filter products
 function calculateDiscount(price, discountRate) {
     if (typeof price !== 'number' || typeof discountRate !== 'number')
        {  
