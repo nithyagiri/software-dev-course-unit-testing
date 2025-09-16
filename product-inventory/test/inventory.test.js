@@ -1,3 +1,4 @@
+//this is a test file
 const {calculateDiscount, filterProducts, sortInventory }= require ('../inventory.js');
 
 describe("Produce-Inventory", function(){
