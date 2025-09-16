@@ -1,3 +1,4 @@
+//this is a inventory file
 function calculateDiscount(price, discountRate) {
     if (typeof price !== 'number' || typeof discountRate !== 'number')
        {  
